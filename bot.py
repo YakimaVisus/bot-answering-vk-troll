@@ -3,7 +3,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 import random
 import time
 # САМЫЙ КРУТОЙ АВТООТВЕТЧИК В МИРЕ ОТ Yakima Visus ВЫ ТОЛЬКО НЕ ВАРУЙТЕ ДА ЛУЧШЕ ЗВЕЗДОЧКИ МНЕ ПОСТАВТЬЕ НА ГИТХАБЕ 
-#шаблы тута
+
 print("""
 く__,.ヘヽ.　　　　/　,ー､ 〉
 　　　　　＼ ', !-─‐-i　/　/´
